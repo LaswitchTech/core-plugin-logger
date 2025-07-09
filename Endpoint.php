@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Core Framework - LoggerEndpoint
- *
- * @license    MIT (https://mit-license.org/)
- * @author     Louis Ouellet <louis@laswitchtech.com>
- */
-
 // Import additionnal class into the global namespace
 use \LaswitchTech\Core\Objects;
 use \LaswitchTech\Core\Abstracts\Endpoint;
